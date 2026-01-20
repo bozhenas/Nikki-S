@@ -1,3 +1,8 @@
+index.html
+style.css
+project1.html
+project2.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
